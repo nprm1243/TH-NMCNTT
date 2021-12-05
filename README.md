@@ -1,6 +1,5 @@
 # TH-NMCNTT
 
-Câu hỏi nè
-$$
-\sqrt(5) = 
-$$
+Câu hỏi nè:v
+
+Đáp án là huhu
