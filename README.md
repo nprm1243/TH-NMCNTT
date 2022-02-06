@@ -4,4 +4,4 @@
 - [ ] Beijing 2022 Olympics (in progress) [Link](https://www.kaggle.com/piterfm/beijing-2022-olympics)
 - [ ] House Pricing (raw) [Link](https://raw.githubusercontent.com/rashida048/Datasets/master/home_data.csv)
 - [ ] World Happiness Report [Link](https://www.kaggle.com/unsdsn/world-happiness)
-- [ ] Chung cư Chơ tot =)) [Link](https://www.kaggle.com/hoandan/apartment-prices-in-the-city-ho-chi-minh-city)
+- [ ] Apartment prices in the city Ho Chi Minh City [Link](https://www.kaggle.com/hoandan/apartment-prices-in-the-city-ho-chi-minh-city)
